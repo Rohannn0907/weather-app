@@ -4,7 +4,7 @@
 
 A responsive Weather Application built using HTML, CSS, and JavaScript that allows users to view real-time weather information either by granting location access or by searching for a city name. The app fetches live data from the OpenWeatherMap API and presents it in a clean, user-friendly interface.
 
-🚀 Features
+## 🚀 Features
 
 🌍 Current Location Weather
 
